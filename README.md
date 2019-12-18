@@ -16,7 +16,7 @@ To create a website that hosts Phish setlist bingo (Phingo) games across tours a
 Please contact the #phingo channel in the Phiscord Discord server or create a "Contributing" issue.
 
 ## Authors <a name ="authors"></a>
-+ [@nkannath](https://github.com/nkannath) - 
++ [@nkannath](https://github.com/nkannath)
 + [@jonathancooper](https://github.com/JonathanCooper)
 + [@damionjunk](https://github.com/damionjunk)
 + [@mwielgosz](https://github.com/mwielgosz)
