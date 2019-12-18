@@ -17,7 +17,10 @@ Please contact the #phingo channel in the Phiscord Discord server or create a "C
 
 ## Authors <a name ="authors"></a>
 + [@nkannath](https://github.com/nkannath) - 
-
++ [@jonathancooper](https://github.com/JonathanCooper)
++ [@damionjunk](https://github.com/damionjunk)
++ [@mwielgosz](https://github.com/mwielgosz)
++ [@slasher15987](https://github.com/slasher15987)
 
 
 ## Acknowledgements <a name ="acknowledgements"></a>
