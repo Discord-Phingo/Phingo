@@ -5,7 +5,7 @@ export default class App extends Component {
   render() {
     return (
       <React.Fragment>
-        <Card></Card>
+        <Card />
       </React.Fragment>
     );
   }
